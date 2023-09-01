@@ -1,0 +1,24 @@
+{
+  "name": "node_hw_01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index",
+    "dev": "nodemon index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TsymbalyukM/node_hw_01.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TsymbalyukM/node_hw_01/issues"
+  },
+  "homepage": "https://github.com/TsymbalyukM/node_hw_01#readme",
+  "dependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
